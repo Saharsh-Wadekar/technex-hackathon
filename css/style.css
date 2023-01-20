@@ -1520,11 +1520,11 @@ you can use the generic selector below, but it's slower:
 		padding-right:40%;
 	} */
 
-#hackathon-apply-now {
+#devfolio-apply-now {
   -ms-flex-align: center;
   -webkit-box-align: center;
   align-items: center;
-  background-color: #333;
+  background-color: #3770ff;
   /* background-color: #466efc; */
   border-radius: 20px;
   border: none;
@@ -1543,13 +1543,13 @@ you can use the generic selector below, but it's slower:
   /* text-transform: lowercase; */
 }
 
-#hackathon-apply-now:not([disabled]) {
+#devfolio-apply-now:not([disabled]) {
   cursor: pointer;
 }
 
-#Hackathon-apply-now:hover 
+#devfolio-apply-now:hover 
 {
   /* cursor: pointer; */
   /* background-color: #3961fc !important; */
-  background-color: #333 !important;
+  background-color: #466efc !important;
 }

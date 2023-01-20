@@ -3756,11 +3756,11 @@ background: linear-gradient(90deg, rgba(140,0,126,1) 0%, rgba(78,0,148,1) 100%);
   }
 }
 
-.hackathon-apply-now {
+.devfolio-apply-now {
   -ms-flex-align: center;
   -webkit-box-align: center;
   align-items: center;
-  background-color: #333;
+  background-color: #3770ff;
   border-radius: 30px;
   border: none;
   color: #f5f5f5;
@@ -3777,11 +3777,11 @@ background: linear-gradient(90deg, rgba(140,0,126,1) 0%, rgba(78,0,148,1) 100%);
   text-transform: lowercase;
 }
 
-.hackathon-apply-now:not([disabled]) {
+.devfolio-apply-now:not([disabled]) {
   cursor: pointer;
 }
 
-.hackathon-apply-now:hover {
+.devfolio-apply-now:hover {
   /* background-color: #3961fc !important; */
-    background-color: #333 !important;
+    background-color: #466efc !important;
 }
