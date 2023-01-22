@@ -3,7 +3,7 @@ Template Name: Confer - Conference Event HTML Template
 Template Author: Colorlib
 Template Author URI: https://colorlib.com
 Version: 1.1.1
-Last Update: March 14, 2019
+Last Update: Januray 22, 2023
 ----------------------------------------------------- */
 
 /* --------------------------------
