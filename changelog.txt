@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 :: Version 1.1.1 (January 22, 2023)
 - Initial Release
+=======
+:: Version 1.1.1 (Janurary 22, 2023)
+- Initial Release
+>>>>>>> 24e48984d04f1d56ec9250e124cb391514795588
